@@ -1,0 +1,4 @@
+- Analysed customer demographics, transactions, loyalty programmes, and churn data to uncover drivers of customer retention.
+- Built an interactive Power BI dashboard highlighting churn trends, loyal customer segments, and underperforming regions/channels.
+- Delivered insights on the effectiveness of loyalty programmes and promotions to support data-driven retention strategy.
+- Project Pdf Link(https://1drv.ms/b/c/900f937090d25f7e/IQCLC9aJ3dqdToUUOgLh8HtmAUF5-9VQaYAZ8H0hkeBBB1E?e=hB0PR6)
